@@ -1,8 +1,9 @@
-name = "me var nika lomidze "
+name = "nika lomidze "
 
-age =15
+age = 15
 
+surname =  "wlis minda gavigo meti"
 
-surname = "wlis vswavlob goal academyshi da msurs daveuflo programirebas umagles doneze"
+height = "programirebis shesaxeb"
 
-print(name + str(age) + surname)
+print(name +  str(age) + surname + height )  
