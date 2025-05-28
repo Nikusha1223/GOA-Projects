@@ -1,0 +1,23 @@
+body {
+    background-color: aqua; 
+    color: white; 
+    text-align: center; 
+} 
+
+h1{
+    color: azure;
+    background-color: aqua;
+} 
+h2{
+    background-color: aqua;
+    color: black; 
+    text-align: center;
+} 
+p{
+    background-color: aqua ;
+    color: brown;
+} 
+button{
+    color: blanchedalmond ; 
+    text-align: center;
+}
